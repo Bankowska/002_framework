@@ -15,7 +15,7 @@ Stylizacja i szablony: Zaawansowane opcje stylizacji UI przy użyciu szablonów 
 Efekty graficzne: Obsługuje zaawansowane efekty graficzne, takie jak animacje, 3D, przezroczystości i cienie.
 ## Framework Qt
 ### Opis ogólny frameworku
-Qt to popularny, wieloplatformowy framework stworzony przez firmę The Qt Company, wykorzystywany głównie do tworzenia aplikacji desktopowych, mobilnych i os embedded. Qt obsługuje wiele języków programowania, w tym C++, Python (za pomocą bindingów) i inne. Framework Qt oferuje szeroki zestaw narzędzi do tworzenia aplikacji z bogatym interfejsem graficznym oraz obsługą zdarzeń, komunikacji sieciowej i multimediów.
+Qt to popularny, wieloplatformowy framework stworzony przez firmę The Qt Company, wykorzystywany głównie do tworzenia aplikacji desktopowych i mobilnych. Qt obsługuje wiele języków programowania, w tym C++, Python. Framework Qt oferuje szeroki zestaw narzędzi do tworzenia aplikacji z bogatym interfejsem graficznym oraz obsługą zdarzeń, komunikacji sieciowej i multimediów.
 
 ### Zastosowanie Qt w tworzeniu aplikacji desktopowych
 
